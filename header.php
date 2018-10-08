@@ -23,43 +23,43 @@
     </div>
     <div class="container main-menu">
         <div class="row align-items-center justify-content-between d-flex">
-
             <nav id="nav-menu-container">
-            <ul class="nav-menu">
-                <li class=""><a href="index.php">Home</a></li>
-                <li><a href="dpaobj.php">DPA Objectives</a></li>
-                <!-- <li><a href="services.php">Services</a></li> -->
-                <!-- <li><a href="opening-hour.php">Opening Hour </a></li> -->
-                <li class="menu-has-children"><a href="#">Membership</a>
-                <ul>
-                    <li><a href="wjdpa.php">Why Join DPA</a></li>
-                    <li><a href="benefits.php">Benefits</a></li>
-                    <li><a href="membership.php">Membership Form</a></li>					              
+                <ul class="nav-menu">
+                    <li class=""><a href="index.php">Home</a></li>
+                    <li><a href="dpaobj.php">DPA Objectives</a></li>
+                    <!-- <li><a href="services.php">Services</a></li> -->
+                    <!-- <li><a href="opening-hour.php">Opening Hour </a></li> -->
+                    <li class="menu-has-children"><a href="#">Membership</a>
+                    <ul>
+                        <li><a href="wjdpa.php">Why Join DPA</a></li>
+                        <!-- <li><a href="benefits.php">Benefits</a></li> -->
+                        <li><a href="membership.php">Membership Form</a></li>					              
+                    </ul>
+                    </li>	
+                    <li class="menu-has-children"><a href="#">Dental Prosthetist</a>
+                        <ul>
+                            <li><a href="dentalprosthetist.php">What is Dental Prosthetist ?</a></li>
+                            <li><a href="findprosthetist.php">Find Dental Prosthetist</a></li>
+                            <li><a href="scope.php">Scope of Dental Prosthetist</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-has-children"><a href="#">Our Advocacy</a>
+                        <ul>
+                            <li><a href="advocacy.php">Advocacy</a></li>
+                            <li><a href="mediarelease.php">Media Release</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="ifofdenturist.php">International Federation of Denturist</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li class="text-right"><a href="#" class="text-right">Login</a></li>
                 </ul>
-                </li>	
-                <li class="menu-has-children"><a href="#">Dental Prosthetist</a>
-                    <ul>
-                        <li><a href="dentalprosthetist.php">What is Dental Prosthetist ?</a></li>
-                        <li><a href="findprosthetist.php">Find Dental Prosthetist</a></li>
-                        <li><a href="scope.php">Scope of Dental Prosthetist</a></li>
-                    </ul>
-                </li>
-                <li class="menu-has-children"><a href="#">Our Advocacy</a>
-                    <ul>
-                        <li><a href="advocacy.php">Advocacy</a></li>
-                        <li><a href="mediarelease.php">Media Release</a></li>
-                    </ul>
-                </li>
-                <li><a href="ifofdenturist.php">International Federatoion of Denturist</a></li>
-                <li><a href="contact.php">Contact</a></li>
-            </ul>
             </nav><!-- #nav-menu-container -->
-        <div class="menu-social-icons">
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <!-- <a href="#"><i class="fa fa-dribbble"></i></a> -->
-            <!-- <a href="#"><i class="fa fa-behance"></i></a> -->
-        </div>	    		
+            <div class="menu-social-icons">
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <!-- <a href="#"><i class="fa fa-dribbble"></i></a> -->
+                <!-- <a href="#"><i class="fa fa-behance"></i></a> -->
+            </div>	    		
         </div>
     </div>
 </header><!-- #header -->

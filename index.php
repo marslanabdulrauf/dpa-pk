@@ -37,7 +37,7 @@
 							Dental Prosthetist Association of Pakistan			
 						</h1>
 						<h6 class="text-white mx-auto">
-							Dental Prosthetist is an Independent Clinician
+							“Dental Prosthetist is an Independent Clinician”
 						</h6>
 					</div>											
 				</div>

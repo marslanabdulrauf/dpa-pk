@@ -29,20 +29,43 @@
     ?>
     
     <!-- start banner Area -->
-    <section class="banner-area relative about-banner" id="home">	
+    <section class="banner-area relative" id="home">	
         <div class="overlay overlay-bg"></div>
         <div class="container">				
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
-                    <h1 class="text-white">
-                        What is Dental Prosthetist
-                    </h1>	
-                    <p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="dentalprosthetist.php"> Dental Prosthetist</a></p>
+                    <br><br><br>
+                    <h2 class="text-white text-uppercase">
+                        An Independent Clinician
+                    </h2>
+                    <br><br><br>
                 </div>	
             </div>
         </div>
     </section>
     <!-- End banner Area -->
+
+    <br>
+
+    <div class="container">
+        <div class="section-top-border">
+            <h3 class="mb-30">What is Dental Prosthetist ?</h3>
+            <hr>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <blockquote class="generic-blockquote">
+                            “Dental Prosthetist is an Independent Clinician who can insert Removeable Prosthetisis Directly to Patient; Starting from Clinical Evaluation to till Insertion”
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+
+    <br>
 
     <?php
         include_once "footer.php"

@@ -24,7 +24,7 @@
             </div>							
             <div class="col-lg-6  col-md-12">
                 <div class="single-footer-widget newsletter">
-                    <h6>Sponsers</h6>		
+                    <h6>Sponsers</h6>
                 </div>
             </div>					
         </div>
