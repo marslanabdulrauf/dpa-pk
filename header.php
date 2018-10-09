@@ -51,7 +51,6 @@
                     </li>
                     <li><a href="ifofdenturist.php">International Federation of Denturist</a></li>
                     <li><a href="contact.php">Contact</a></li>
-                    <li class="text-right"><a href="#" class="text-right">Login</a></li>
                 </ul>
             </nav><!-- #nav-menu-container -->
             <div class="menu-social-icons">

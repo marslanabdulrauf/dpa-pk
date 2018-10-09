@@ -29,20 +29,42 @@
     ?>
     
     <!-- start banner Area -->
-    <section class="banner-area relative about-banner" id="home">	
+    <section class="banner-area relative" id="home">	
         <div class="overlay overlay-bg"></div>
         <div class="container">				
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
+                    <br><br><br>
                     <h1 class="text-white">
-                        Advocacy
+                        Our Advocacy
                     </h1>	
-                    <p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="advocacy.php"> advocacy</a></p>
+                    <br><br><br>
                 </div>	
             </div>
         </div>
     </section>
     <!-- End banner Area -->
+
+
+    <br>
+
+    <div class="container">
+        <div class="section-top-border">
+            <h3 class="mb-30">Our Advocacy</h3>
+            <hr>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <blockquote class="generic-blockquote">
+                            “This is Only Association for Dental Prosthetist in Pakistan Who, on Behalf of Our Members, respond to Pakistani Government, Health Authorities, Forums and Media Activitities”
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
 
     <?php
         include_once "footer.php"
