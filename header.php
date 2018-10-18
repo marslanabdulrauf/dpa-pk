@@ -10,11 +10,11 @@
                 </div>
                 <div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
                     <a class="btns" href="tel:+92 334 9363 539">+92 334 9363 539</a>
-                    <a class="btns" href="mailto:sti.dpapk@gmail.com">sti.dpapk@gmail.com</a>		
+                    <a class="btns" href="mailto:sti@dpa-pk.com">sti@dpa-pk.com</a>		
                     <a class="icons" href="tel:+92 334 9363 539">
                         <span class="lnr lnr-phone-handset"></span>
                     </a>
-                    <a class="icons" href="mailto:sti.dpapk@gmail.com">
+                    <a class="icons" href="mailto:sti@dpa-pk.com">
                         <span class="lnr lnr-envelope"></span>
                     </a>		
                 </div>

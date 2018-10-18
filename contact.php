@@ -78,7 +78,7 @@
 								<span class="lnr lnr-envelope"></span>
 							</div>
 							<div class="contact-details">
-								<h5>sti.dpapk@gmail.com</h5>
+								<h5>sti@dpa-pk.com</h5>
 								<p>Send us your query anytime!</p>
 							</div>
 						</div>														
