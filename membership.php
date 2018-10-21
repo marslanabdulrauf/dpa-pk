@@ -29,20 +29,55 @@
     ?>
     
     <!-- start banner Area -->
-    <section class="banner-area relative about-banner" id="home">	
+    <section class="banner-area relative" id="home">	
         <div class="overlay overlay-bg"></div>
         <div class="container">				
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
+                    <br><br><br>
                     <h1 class="text-white">
                         Membership Form
-                    </h1>	
-                    <p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="membership.php"> Membership Form</a></p>
+                    </h1>
+                    <br><br><br>	
                 </div>	
             </div>
         </div>
     </section>
     <!-- End banner Area -->
+
+    <!-- Start Membership Form -->
+    <br>
+    <div class="container">
+        <div class="typography typo-sec">
+            <h2 class="typo-list">Membership Form</h2>
+        </div>
+        <form action="m.php">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="mt-10">
+                            <input type="text" name="fname" placeholder="First Name" onfocus="this.placeholder=''" onblur="this.placeholder='First Name'" required class="single-input">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="mt-10">
+                            <input type="text" name="lname" placeholder="Last Name" onfocus="this.placeholder=''" onblur="this.placeholder='Last Name'" required class="single-input">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="mt-20">
+                            <input type="email" name="e_mail" placeholder="example@xyz.com" onfocus="this.placeholder=''" onblur="this.placeholder='example@xyz.com'" required class="single-input">
+                        </div>
+                    </div>    
+                </div>
+            </div>
+            <div class="mt-40 text-right">
+                <a href="#" class="genric-btn primary radius arrow">Create</a>
+            </div>
+        </form>
+    </div>
+    <br>
+    <!-- End Membership Form -- >    
 
     <?php
         include_once "footer.php"

@@ -25,9 +25,11 @@
 			img{
 				opacity:0.7;
 			}
+			div.text-center>.row>.col-lg-6>.container:hover{
+				cursor:pointer;
+			}			
 			div.text-center>.row>.col-lg-6>.container:hover h2{
 				color: #ade600;
-				cursor: hand;
 			}
 		</style>
 	</head>
@@ -59,31 +61,35 @@
 		<div class="container text-center">
 			<div class="row">
 				<div class="col-lg-6">
-					<div class="container" onclick="window.location.href='membership.php'">
+					<div class="mt-20 container" onclick="window.location.href='membership.php'">
 						<img src="img/s1.jpg" alt="Membership Form">
-						<br>
-						<h2>Membership Form</h2>
+						<div class="typography typo-sec">
+							<h2 class="typo-list">Membership Form</h2>
+						</div>
 					</div>
 				</div>
 				<div class="col-lg-6">
-					<div class="container" onclick="window.location.href=''">
+					<div class="mt-20 container" onclick="window.location.href=''">
 						<img src="img/s2.jpg" alt="Latest News">
-						<h2>Latest News</h2>
+						<div class="typography typo-sec">
+							<h2 class="typo-list">Latest News</h2>
+						</div>
 					</div>
 				</div>
-			</div>
-			<br><br>
-			<div class="row">
 				<div class="col-lg-6">
-					<div class="container" onclick="window.location.href='findprosthetist.php'">
+					<div class="mt-20 container" onclick="window.location.href='findprosthetist.php'">
 						<img src="img/s3.jpg" alt="Find Prosthetist">
-						<h2>Find Prosthetist</h2>
+						<div class="typography typo-sec">
+							<h2 class="typo-list">Find Prosthetist</h2>
+						</div>
 					</div>
 				</div>
 				<div class="col-lg-6">
-					<div class="container" onclick="window.location.href='#'">
+					<div class="mt-20 container" onclick="window.location.href='#'">
 						<img src="img/s4.jpg" alt="Magazine">
-						<h2>Magazine</h2>
+						<div class="typography typo-sec">
+							<h2 class="typo-list">Magazine</h2>
+						</div>
 					</div>
 				</div>
 			</div>
